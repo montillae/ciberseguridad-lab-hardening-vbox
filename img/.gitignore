@@ -1,0 +1,15 @@
+# Archivos de VirtualBox y discos virtuales
+*.vdi
+*.vbox
+*.vbox-prev
+*.sav
+*.log
+
+# Archivos de sistema operativo Host
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de edición
+*.tmp
+*~
